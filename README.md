@@ -20,7 +20,7 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp dựa trên mã nguồn mở Odoo. 
+Dự án Chấm công và Tính lương tự động được xây dựng trên nền tảng Odoo ERP, nhằm hỗ trợ doanh nghiệp quản lý nhân sự hiệu quả hơn. Hệ thống tự động kết nối hồ sơ nhân sự, dữ liệu chấm công thực tế để tính lương và bảo hiểm, giúp giảm thiểu sai sót và tiết kiệm thời gian cho bộ phận nhân sự. 
 
 ## 🔧 2. Các công nghệ được sử dụng
 <div align="center">
